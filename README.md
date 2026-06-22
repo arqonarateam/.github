@@ -2,19 +2,18 @@
 
 # ArqonaraTeam
 
-### Building Software, Infrastructure, and Open Source Solutions
+### Infrastructure • Software • Open Source
 
 <p>
   <a href="https://arqonara.com">
-    <img src="https://img.shields.io/badge/Website-arqonara.com-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white">
+    <img src="https://img.shields.io/badge/Website-arqonara.com-B71C1C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/ArqonaraTeam">
-    <img src="https://img.shields.io/github/followers/ArqonaraTeam?style=for-the-badge&logo=github">
+  <a href="https://github.com/arqonarateam">
+    <img src="https://img.shields.io/badge/GitHub-ArqonaraTeam-181717?style=for-the-badge&logo=github"/>
   </a>
-  <img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge">
 </p>
 
-*"Building reliable solutions through code and infrastructure."*
+Building reliable software, infrastructure, and open-source solutions.
 
 </div>
 
@@ -22,9 +21,9 @@
 
 ## About
 
-**ArqonaraTeam** is the development organization behind the Arqonara ecosystem.
+**ArqonaraTeam** is the engineering organization behind the Arqonara ecosystem.
 
-We focus on building modern software, infrastructure tools, automation systems, and open-source solutions with an emphasis on performance, reliability, and maintainability.
+We develop modern software, automation systems, infrastructure tools, and open-source projects with a focus on performance, reliability, and maintainability.
 
 Our mission is to transform complex infrastructure into seamless experiences for developers, communities, and businesses.
 
@@ -32,46 +31,55 @@ Our mission is to transform complex infrastructure into seamless experiences for
 
 ## Technologies
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,ts,js,php,linux,docker,redis,mysql,git,github,vscode&perline=7" />
-</p>
-
----
-
-## GitHub Statistics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArqonaraTeam&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ArqonaraTeam&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArqonaraTeam&theme=github-compact&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,go,ts,js,php,linux,docker,redis,mysql,git,github&perline=6"/>
 
 </div>
 
 ---
 
-## Philosophy
+## Principles
 
 - Performance First
-- Simplicity Over Complexity
-- Open Source Friendly
-- Infrastructure Driven
 - Reliability Matters
+- Open Source Friendly
+- Simplicity Over Complexity
+- Developer Experience Focused
 
 ---
 
-## Connect
+## Activity
 
-<p align="center">
-  <a href="https://arqonara.com">
-    <img src="https://img.shields.io/badge/Website-arqonara.com-red?style=flat-square&logo=googlechrome&logoColor=white">
-  </a>
-  <a href="mailto:admin@arqonara.com">
-    <img src="https://img.shields.io/badge/Email-admin@arqonara.com-red?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=arqonarateam&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## Organization Metrics
+
+<div align="center">
+
+![](https://img.shields.io/github/stars/arqonarateam/.github?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/arqonarateam/.github?style=for-the-badge)
+![](https://img.shields.io/github/license/arqonarateam/.github?style=for-the-badge)
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[Website](https://arqonara.com) •
+[GitHub](https://github.com/arqonarateam) •
+admin@arqonara.com
+
+</div>
 
 ---
 
@@ -79,6 +87,6 @@ Our mission is to transform complex infrastructure into seamless experiences for
 
 ### Powered by Arqonara
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
+*"Build • Innovate • Deliver"*
 
 </div>
