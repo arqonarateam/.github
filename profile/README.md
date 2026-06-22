@@ -33,7 +33,7 @@ Our mission is to transform complex infrastructure into seamless experiences for
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,go,ts,js,php,linux,docker,redis,mysql,git,github&perline=6"/>
+<img src="https://skillicons.dev/icons?i=java,go,ts,js,php,linux,docker,redis,mysql,git,github&perline=6"/>
 
 </div>
 
@@ -46,18 +46,6 @@ Our mission is to transform complex infrastructure into seamless experiences for
 - Open Source Friendly
 - Simplicity Over Complexity
 - Developer Experience Focused
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=arqonarateam&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 ## Organization Metrics
 
