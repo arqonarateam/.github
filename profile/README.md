@@ -1,45 +1,37 @@
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1500&color=B71C1C&center=true&vCenter=true&width=650&lines=ArqonaraTeam;Infrastructure+%E2%80%A2+Software+%E2%80%A2+Open+Source;Building+Reliable+Solutions;Powered+by+Arqonara" />
+</p>
 
-# ArqonaraTeam
-
-### Infrastructure • Software • Open Source
-
-<p>
+<p align="center">
   <a href="https://arqonara.com">
     <img src="https://img.shields.io/badge/Website-arqonara.com-B71C1C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="https://github.com/arqonarateam">
-    <img src="https://img.shields.io/badge/GitHub-ArqonaraTeam-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-ArqonaraTeam-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-Building reliable software, infrastructure, and open-source solutions.
-
-</div>
-
 ---
 
-## About
+# About
+
+> *Turning complex infrastructure into seamless experiences.*
 
 **ArqonaraTeam** is the engineering organization behind the Arqonara ecosystem.
 
-We develop modern software, automation systems, infrastructure tools, and open-source projects with a focus on performance, reliability, and maintainability.
-
-Our mission is to transform complex infrastructure into seamless experiences for developers, communities, and businesses.
+We build modern software, infrastructure tools, automation systems, and open-source solutions with a focus on performance, reliability, and maintainability.
 
 ---
 
-## Technologies
+# Technologies
 
-<div align="center">
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,go,ts,js,php,linux,docker,redis,mysql,git,github&perline=6"/>
-
-</div>
+</p>
 
 ---
 
-## Principles
+# Principles
 
 - Performance First
 - Reliability Matters
@@ -47,34 +39,45 @@ Our mission is to transform complex infrastructure into seamless experiences for
 - Simplicity Over Complexity
 - Developer Experience Focused
 
-## Organization Metrics
+---
 
-<div align="center">
+# GitHub Activity
 
-![](https://img.shields.io/github/stars/arqonarateam/.github?style=for-the-badge)
-![](https://img.shields.io/github/last-commit/arqonarateam/.github?style=for-the-badge)
-![](https://img.shields.io/github/license/arqonarateam/.github?style=for-the-badge)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjarman20&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
 ---
 
-## Contact
+# Community
 
-<div align="center">
+<p align="center">
+  <a href="https://discord.com/invite/eWFcW32r">
+    <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
-[Website](https://arqonara.com) •
-[GitHub](https://github.com/arqonarateam) •
-admin@arqonara.com
-
-</div>
+<p align="center">
+  <a href="https://facebook.com/profile.php?id=61588173580116">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/arqonara">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@arqonara.com">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@Arqonara-Hosting">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arqonarateam&color=B71C1C&style=for-the-badge&label=Profile+Views"/>
+</p>
 
-### Powered by Arqonara
-
-*"Build • Innovate • Deliver"*
-
-</div>
+<p align="center">
+  <i>Build • Innovate • Deliver</i>
+</p>
