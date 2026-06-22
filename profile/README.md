@@ -41,14 +41,6 @@ We build modern software, infrastructure tools, automation systems, and open-sou
 
 ---
 
-# GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anjarman20&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
 # Community
 
 <p align="center">
